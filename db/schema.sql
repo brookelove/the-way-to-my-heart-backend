@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS recipie_db;
+
+CREATE DATABASE recipie_db;
